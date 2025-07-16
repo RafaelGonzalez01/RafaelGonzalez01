@@ -3,7 +3,7 @@
 - 🔭 I’m currently studing in UNLP ...
 -  📫 How to reach me: rafael2001gonzalez@gmail.com
 
-### 🌟 Repositorios
+### 🌟 Repositories
 
 <div>
     <a href="https://github.com/RafaelGonzalez01/Analista-Programador-Universitario-UNLP-"><img width="345" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelGonzalez01&repo=Analista-Programador-Universitario-UNLP-&cache_seconds=86401&theme=dark"></a>
