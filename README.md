@@ -1,7 +1,16 @@
-## Hola, soy Rafael Gonzalez 👋
+## <h1 align="center">Hi , I'm Rafael Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently studing in UNLP ...
--  📫 How to reach me: rafael2001gonzalez@gmail.com
+- 🔭 I’m currently studing in UNLP
+-  📫 How to reach me **rafael2001gonzalez@gmail.com**
+  
+### 🛠 &nbsp; Languages
+ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+ ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+ ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+ 
 
 ### 📦 Repositories
 
