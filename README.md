@@ -3,7 +3,7 @@
 - 🔭 I’m currently studing in UNLP ...
 -  📫 How to reach me: rafael2001gonzalez@gmail.com
 
-### 🌟 Repositories
+### 📦 Repositories
 
 <div>
 <p align="center">
