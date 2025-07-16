@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelGonzalez01&show_icons=true&theme=dark">
+    <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGonzalez01&layout=compact&theme=dark">
+</div> 
 <!--
 **RafaelGonzalez01/RafaelGonzalez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
