@@ -1,20 +1,13 @@
-## Hi there 👋
+## Hola, soy Rafael Gonzalez 👋
 
-<div>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelGonzalez01&show_icons=true&theme=dark">
-    <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGonzalez01&layout=compact&theme=dark">
-</div> 
-<!--
-**RafaelGonzalez01/RafaelGonzalez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studing in UNLP ...
+-  📫 How to reach me: rafael2001gonzalez@gmail.com
 
-Here are some ideas to get you started:
+### ⚙️ &nbsp;GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
