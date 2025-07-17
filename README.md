@@ -1,7 +1,6 @@
 ## <h1 align="center">Hi , I'm Rafael Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently studing in UNLP
--  📫 How to reach me **rafael2001gonzalez@gmail.com**
+- 🔭 I’m currently studing in UNLP (Analista Programador Universitario)
   
 ### 🛠 &nbsp; Languages
 <div align="center">
