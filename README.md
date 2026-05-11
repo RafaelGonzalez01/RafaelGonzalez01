@@ -1,6 +1,6 @@
 ## <h1 align="center">Hola, soy Rafael Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 Actualmente estoy estudiando Analista en Tecnologías de la Información y la Comunicación en la UNLP
+- 🔭 Actualmente estoy estudiando la carrera: Analista en Tecnologías de la Información y la Comunicación en la UNLP
   
 ### 🛠 &nbsp; Lenguajes: 
 <div align="center">
