@@ -1,8 +1,8 @@
-## <h1 align="center">Hi , I'm Rafael Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## <h1 align="center">Hola, soy Rafael Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently studing in UNLP
+- 🔭 Actualmente estoy estudiando Analista en Tecnologías de la Información y la Comunicación en la UNLP
   
-### 🛠 &nbsp; Languages
+### 🛠 &nbsp; Lenguajes: 
 <div align="center">
 
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -16,7 +16,7 @@
 </div>
 
 
-### 📦 Repositories
+### 📦 Repositorios
 
 <div>
 <p align="center">
